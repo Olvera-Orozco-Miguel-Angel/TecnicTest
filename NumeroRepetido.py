@@ -2,8 +2,8 @@
 cadena = "1,1,1,1,1,3,5,5,6,6,6,6,7,7,748486986"
 cadena +=",";
 almacenarNumero = ""  # esta variable va guardando la cadena
-arrayNumeros = []  #aquí se almacenan los numeros que tiene el arreglo
-auxValor = []  #aquí se guarda la cantidad de cada arreglo
+arrayNumeros = []  #aquí se almacenan los numeros que tiene la cadena
+auxValor = []  #aquí se guarda la cantidad de cada número.
 auxNumero =0  # despues de castear en el else almacenarNúmero esta variable sirve para guardar ese valor resultante
 index  = 0
 acumulador = 0;
