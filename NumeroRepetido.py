@@ -1,23 +1,21 @@
 #10 :50
 cadena = "1,1,1,1,1,3,5,5,6,6,6,6,7,7,748486986"
-cadena +=",";
 almacenarNumero = ""  # esta variable va guardando la cadena
 arrayNumeros = []  #aquí se almacenan los numeros que tiene la cadena
 auxValor = []  #aquí se guarda la cantidad de cada número.
 auxNumero =0  # despues de castear en el else almacenarNúmero esta variable sirve para guardar ese valor resultante
 index  = 0
-acumulador = 0;
+acumulador = 0
 
-for index,caracter in enumerate(cadena):
-    if not(caracter == ",")  :
+for i , caracter in enumerate(cadena):
+    if not(caracter == ","):
         almacenarNumero += caracter
-        #print("N "+almacenarNumero)
-    else:
+
+    if caracter == "," or i == len(cadena)-1:
        auxNumero = int (almacenarNumero)
-       #print("C ",auxNumero)
        almacenarNumero = ""
        if auxNumero in arrayNumeros:
-            index = arrayNumeros.index(auxNumero )
+            index = arrayNumeros.index(auxNumero)
             auxValor[index] = (auxValor[index])+1;
             almacenarNumero = ""
 
