@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dfc1446-d5f4-470b-b242-f91c76e4c77a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/parNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CadenaDeTexto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.AlgoritmoBurbuja">
+  <component name="RunManager" selected="Python.CambiarOrdenDeElementos">
     <configuration name="AlgoritmoBurbuja" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TecnicTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NumeroRepetido" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CadenaDeTexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TecnicTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumeroRepetido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CadenaDeTexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="invertirCadena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CambiarOrdenDeElementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TecnicTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/invertirCadena.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CambiarOrdenDeElementos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ordenamientoPorInsercion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Listas con mismo número" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TecnicTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ordenamientoPorInsercion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Listas con mismo número.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parNumeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tablas de Multiplicar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TecnicTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parNumeros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tablas de Multiplicar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CambiarOrdenDeElementos" />
+        <item itemvalue="Python.CadenaDeTexto" />
+        <item itemvalue="Python.Tablas de Multiplicar" />
+        <item itemvalue="Python.Listas con mismo número" />
         <item itemvalue="Python.AlgoritmoBurbuja" />
-        <item itemvalue="Python.invertirCadena" />
-        <item itemvalue="Python.ordenamientoPorInsercion" />
-        <item itemvalue="Python.parNumeros" />
-        <item itemvalue="Python.NumeroRepetido" />
       </list>
     </recent_temporary>
   </component>
@@ -188,22 +189,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1283" height="229" key="GridCell.Tab.0.bottom" timestamp="1681762068850">
+    <state width="1283" height="207" key="GridCell.Tab.0.bottom" timestamp="1681837144157">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="229" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1681762068850" />
-    <state width="1283" height="229" key="GridCell.Tab.0.center" timestamp="1681762068850">
+    <state width="1283" height="207" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1681837144157" />
+    <state width="1283" height="207" key="GridCell.Tab.0.center" timestamp="1681837144157">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="229" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1681762068850" />
-    <state width="1283" height="229" key="GridCell.Tab.0.left" timestamp="1681762068850">
+    <state width="1283" height="207" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1681837144157" />
+    <state width="1283" height="207" key="GridCell.Tab.0.left" timestamp="1681837144157">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="229" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1681762068850" />
-    <state width="1283" height="229" key="GridCell.Tab.0.right" timestamp="1681762068850">
+    <state width="1283" height="207" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1681837144157" />
+    <state width="1283" height="207" key="GridCell.Tab.0.right" timestamp="1681837144157">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="229" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1681762068850" />
+    <state width="1283" height="207" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1681837144157" />
     <state width="1283" height="239" key="GridCell.Tab.1.bottom" timestamp="1680813897589">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -220,9 +221,20 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state width="1283" height="239" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1680813897589" />
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1680804498699">
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1681830297769">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1680804498699" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1681830297769" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CambiarOrdenDeElementos.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
